@@ -1,8 +1,6 @@
 # 🤖 Abdul Web Agency AI Sales Agent
 ![Status](https://img.shields.io/badge/Status-Production-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)
 ![Website](https://img.shields.io/badge/Website-Live-success)
 
