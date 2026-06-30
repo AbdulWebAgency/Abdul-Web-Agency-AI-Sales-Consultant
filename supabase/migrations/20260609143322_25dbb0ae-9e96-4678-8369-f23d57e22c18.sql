@@ -1,0 +1,3 @@
+ALTER TABLE public.projects 
+  ADD COLUMN IF NOT EXISTS website_type TEXT,
+  ADD COLUMN IF NOT EXISTS features TEXT[] NOT NULL DEFAULT '{}';

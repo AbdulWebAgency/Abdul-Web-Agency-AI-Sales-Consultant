@@ -1,0 +1,15 @@
+# Abdul Web Agency
+
+> Founder-led web agency building modern, mobile-first websites for growing businesses — affordable, professional, WhatsApp-integrated.
+
+Abdul Web Agency designs and develops business websites, product catalog sites, and e-commerce sites. We focus on clean design, fast delivery (1–3 weeks), mobile responsiveness, and lead-generation features such as enquiry forms and WhatsApp chat integration.
+
+## Pages
+
+- [Home](/): Services overview, portfolio highlights, process, and contact.
+- [Portfolio](/#portfolio): Examples of business, product catalog, and e-commerce websites with filtering by type and features.
+- [Services](/#services): What we build and how we work.
+- [About](/#about): Founder background and approach.
+- [Process](/#process): How a project moves from enquiry to launch.
+- [FAQ](/#faq): Pricing, timelines, custom features, and WhatsApp integration.
+- [Contact](/#contact): Enquiry form, email, phone, and WhatsApp.
